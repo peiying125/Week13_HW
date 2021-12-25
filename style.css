@@ -1,0 +1,46 @@
+.hello{
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 300px;
+	background-color: lightgray;
+	margin: 0 auto;
+	padding :0px 10px;
+
+}
+.demo{
+	opacity: 0.3;
+}
+.demo:hover{
+	opacity: 1;
+}
+
+input[type="button"]{
+	background-color: orange;
+	border-radius: 5px;
+	width: 150px;
+	height: 40px;
+}
+input[type="text"]{
+	border-radius: 5px;
+	width: 280px;
+	height: 30px;
+}
+
+
+.a{
+	border: 2px solid darkgreen;
+	background-color: lightyellow;
+	font-family:sans-serif;
+	width: 280px;
+	height: 20px;
+
+}
+.b{
+	border: 1px ridge darkgray;
+	width: 280px;
+	height: 20px;
+	background-color: lightblue;
+	font-family:monospace;
+
+	
+}
